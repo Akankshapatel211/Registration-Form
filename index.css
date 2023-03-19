@@ -1,0 +1,15 @@
+.registration-form{
+    width: 80%;
+    margin: 10% auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 25px;
+    background-color: rgb(140, 212, 218);
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+ 
+
+  .button{
+    background-color: aqua;
+  }
